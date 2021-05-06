@@ -13,10 +13,24 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-41.0.0.tar.gz",
-    "react-native-web": "~0.13.12"
+    "react-native-web": "~0.13.12",
+    "redux": "^4.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0"
   },
-  "private": true
+  "private": true,
+  "name": "shuo-zhongwen-native",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robert-Sawyer/shuo-zhongwen-native.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robert-Sawyer/shuo-zhongwen-native/issues"
+  },
+  "homepage": "https://github.com/Robert-Sawyer/shuo-zhongwen-native#readme",
+  "description": ""
 }
